@@ -1,6 +1,6 @@
 # xinference-embedding-model-spring-ai-starter
 
-中文 | [英文](https://gitee.com/lvdaxianer/xinference-embedding-model-spring-ai-starter/blob/master/README.md)
+中文 | [英文](https://github.com/lvdaxianer/xinference-embedding-model-spring-ai-starter/blob/master/README.md)  
 
 > Spring AI xinference embedding 模型
 
