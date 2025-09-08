@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "name": "spring.ai.xinference.embedding",
+      "type": "io.lvdaxianer.xinference.embedding.model.autoconfigure.XinferenceEmbeddingProperties",
+      "sourceType": "io.lvdaxianer.xinference.embedding.model.autoconfigure.XinferenceEmbeddingProperties"
+    },
+    {
+      "name": "spring.ai.xinference.embedding.options",
+      "type": "io.lvdaxianer.xinference.embedding.model.XinferenceEmbeddingOptions",
+      "sourceType": "io.lvdaxianer.xinference.embedding.model.autoconfigure.XinferenceEmbeddingProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.ai.xinference.embedding.base-url",
+      "type": "java.lang.String",
+      "sourceType": "io.lvdaxianer.xinference.embedding.model.autoconfigure.XinferenceEmbeddingProperties"
+    },
+    {
+      "name": "spring.ai.xinference.embedding.options.model",
+      "type": "java.lang.String",
+      "sourceType": "io.lvdaxianer.xinference.embedding.model.autoconfigure.XinferenceEmbeddingProperties"
+    }
+  ],
+  "hints": [],
+  "ignored": {
+    "properties": []
+  }
+}
