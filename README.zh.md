@@ -7,8 +7,8 @@
 ## 添加依赖
 ```xml
 <dependency>
-    <groupId>io.lvdaxianer</groupId>
-    <artifactId>xinference-embedding-model-spring-ai-starter</artifactId>
+    <groupId>io.github.lvdaxianer</groupId>    
+    <artifactId>xinference-embedding-model-spring-ai-starter</artifactId>  
     <version>xxxx</version>
 </dependency>
 ```
