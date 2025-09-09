@@ -24,6 +24,12 @@ spring:
           model: Qwen3-Embedding-4B
 ```
 
+##  version
+| current version | springboot | spring-ai | Is it available? |
+| :--- | :--: | ---: | ---: |
+| 1.0.0 |  3.4.5  | 1.0.1 | × |
+| 1.0.1 |  3.4.5  | 1.0.1 | √ |  
+
 ## usage
 ```java
 @RestController
