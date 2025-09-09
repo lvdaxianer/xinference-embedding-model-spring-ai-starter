@@ -7,7 +7,7 @@
 ## add dependency 
 ```xml
 <dependency>
-    <groupId>io.lvdaxianer</groupId>
+    <groupId>io.github.lvdaxianer</groupId>  
     <artifactId>xinference-embedding-model-spring-ai-starter</artifactId>
     <version>xxxx</version>
 </dependency>
