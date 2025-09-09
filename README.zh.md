@@ -24,6 +24,12 @@ spring:
           model: Qwen3-Embedding-4B
 ```
 
+##  版本
+| 当前版本 | springboot | spring-ai | 是否可用? |
+| :--- | :--: | ---: | ---: |  
+| 1.0.0 |  3.4.5  | 1.0.1 | × |
+| 1.0.1 |  3.4.5  | 1.0.1 | √ |   
+
 ## 如何使用
 ```java
 @RestController
